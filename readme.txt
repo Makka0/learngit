@@ -1,2 +1,3 @@
-Git is a distributed version control system 1212.
+Git is a distributed version control system.
 Git is free software.
+Hello Damon!
